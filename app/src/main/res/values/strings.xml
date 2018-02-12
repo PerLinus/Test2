@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Test2</string>
+    <string name="app_name">Linkon Reseapp</string>
+    <string name="search_hint">From</string>
 </resources>
